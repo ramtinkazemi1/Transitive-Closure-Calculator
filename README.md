@@ -1,4 +1,4 @@
-# Transitive Closure Calculator
+# Transitive Closure Calculator by Ramtin Kazemi
 
 The Transitive Closure Calculator is a Java program that computes the transitive closure of a database relation representing fund transfers between accounts. The program utilizes the Java Database Connectivity (JDBC) interface to interact with the database and perform the necessary computations.
 
